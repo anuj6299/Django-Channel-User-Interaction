@@ -1,2 +1,1 @@
-# simpleDjangoProject
-simpleDjangoProject
+# Django-Channel-User-Interaction
